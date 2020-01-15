@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "621398073345",
+    "firebase_url": "https://smarttour-2020.firebaseio.com",
+    "project_id": "smarttour-2020",
+    "storage_bucket": "smarttour-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621398073345:android:c0c99c8f5aa52b8a956000",
+        "android_client_info": {
+          "package_name": "com.ayushivadwala.landmarkrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621398073345-8chgo58q81phlkj2vtttng2qe91q99sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayushivadwala.landmarkrecognition",
+            "certificate_hash": "d4f0e9f460b0358c15e39f5444a39a6c1b2060e6"
+          }
+        },
+        {
+          "client_id": "621398073345-1m05d75cque1phn81a75dr68e9nrc8jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayushivadwala.landmarkrecognition",
+            "certificate_hash": "cca6694cba0a8c746f05c54a096426f16350bb3a"
+          }
+        },
+        {
+          "client_id": "621398073345-rgkg99dndpom750vjt037obd9j6h1et3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwIlaXgmUBJsUPiaQSTucfSWIMOjcsrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621398073345-rgkg99dndpom750vjt037obd9j6h1et3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
